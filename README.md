@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">Centering a div</h3>
+<h1 align="">Hi 👋, I'm Aditya</h1>
+<h3 align="">Centering a div</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
