@@ -1,4 +1,3 @@
-<h1 align="">Hi 👋, I'm Aditya</h1>
 <h3 align="">Fullstack Developer</h3>
 
 - 🌱 **Building Stuff**
