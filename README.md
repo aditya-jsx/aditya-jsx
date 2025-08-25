@@ -1,8 +1,8 @@
 <h3 align="">Fullstack Developer</h3>
 
-- 🌱 **Building Stuff**
+-  **Building Stuff**
 
-- 👯 I’m looking to collaborate on **Full stack Projects**
+-  I’m looking to collaborate on **Full stack Projects**
 
 - 📫 How to reach me **devs.aadi20@gmail.com**
 
