@@ -1,6 +1,6 @@
 <h3 align="">Fullstack Developer</h3>
 
--  **Building Stuff...**
+-  **Building Cool Stuff...**
 
 -  I’m looking to collaborate on **Frontend and Full stack Projects**
 
