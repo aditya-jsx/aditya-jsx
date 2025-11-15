@@ -2,7 +2,7 @@
 
 -  **Building Cool Stuff...**
 
--  I’m looking to collaborate on **Frontend and Full stack Projects**
+-  I’m looking to collaborate on **Full stack Projects**
 
 - 📫 How to reach me **devs.aadi20@gmail.com**
 
