@@ -1,6 +1,6 @@
 <h3 align="">Fullstack Developer</h3>
 
-- **Portfolio: https://aditya-devs.tech/**
+- <a href="https://aditya-devs.tech/">**Portfolio**</a>
 
 -  **Building Cool Stuff...**
 
