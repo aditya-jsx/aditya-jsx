@@ -1,6 +1,6 @@
 <h3 align="">Fullstack Developer</h3>
 
-- **Portfolio: https://aditya-tsx.vercel.app/**
+- **Portfolio: https://aditya-devs.tech/**
 
 -  **Building Cool Stuff...**
 
